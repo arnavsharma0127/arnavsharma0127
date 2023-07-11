@@ -15,8 +15,12 @@
 <br/>
 <br/>
 <hr>
+## Watch Snake Eating My Github Contribution. 😭😞
 
- <h3> 🛠 &nbsp;Skills</h3>
+![snake gif](https://github.com/arnavsharma0127/arnavsharma0127/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+<h3> 🛠 &nbsp;Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
