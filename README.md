@@ -17,7 +17,7 @@
 <hr>
 ## Watch Snake Eating My Github Contribution. 😭😞
 
-![snake gif](https://github.com/arnavsharma0127/arnavsharma0127/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/arnavsharma0127/arnavsharma0127/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 <h3> 🛠 &nbsp;Skills</h3>
