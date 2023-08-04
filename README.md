@@ -56,4 +56,4 @@
 ⭐️ From [arnavsharma0127] (https://github.com/arnavsharma0127)
 <br/>
 <br/>
-&nbsp; <i>I believe in "Learn as though you would never be able to master it; hold it as though you would be able in fear of losing it".</i>
+&nbsp; <i>I believe in "Learn as though you would never be able to master it; hold it as though you would be in fear of losing it".</i>
