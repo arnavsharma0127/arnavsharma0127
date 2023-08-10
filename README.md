@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;   
   <br/> 
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
