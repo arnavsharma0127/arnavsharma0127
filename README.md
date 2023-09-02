@@ -1,7 +1,7 @@
       
 
 <h1> Hey, I'm <i>Arnav Sharma.</i></h1>
--⚡ &nbsp; <i>I am aspiring and hard- working individual with inclusive skills.</i><br/>
+-⚡ &nbsp; <i>I am aspiring and hard- working individual with inclusive skills.</i><br/>   
 -⚡ &nbsp; <i>Enthusiastic and curious to learn new skills and technologies.</i><br/>    
 -⚡ &nbsp; <i>Adept in solving complex issues and troubleshooting with a highly analytical and logical mindset.</i><br/>
 -⚡ &nbsp; <i>Being a persistent programmer I am also a courageous sportsperson and above all a lively and cheerful human being.</i><br/> 
