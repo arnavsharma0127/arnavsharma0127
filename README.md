@@ -6,7 +6,7 @@
 -⚡ &nbsp; <i>Adept in solving complex issues and troubleshooting with a highly analytical and logical mindset.</i><br/>
 -⚡ &nbsp; <i>Being a persistent programmer I am also a courageous sportsperson and above all a lively and cheerful human being.</i><br/> 
 <br/>         
-<br/>                   
+<br/>                      
 <a href="https://github.com/arnavsharma0127">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnavsharma0127&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsharma0127&theme=buefy&layout=compact" />
